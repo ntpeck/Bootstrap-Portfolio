@@ -1,0 +1,30 @@
+
+
+.Directory {
+    padding-bottom: 20px;
+    padding: left 8px;
+    font-size: 15px;
+    line-height: 49px;
+    color: darkgrey;
+    margin-right: 12%;
+    
+}
+
+.logo {
+    padding-bottom: 20px;
+    font-size: 35px;
+    line-height: 49px;
+    margin-left: 12%;
+}
+
+.Header {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+}
+
+.card {
+    float: left;
+    width: 50%;
+
+}
